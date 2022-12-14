@@ -97,3 +97,54 @@ p {
   header {
     background: var(--dark);
   }
+
+  header a {
+    color: var(--light);
+  }
+
+  button {
+    font-size: 1rem;
+    text-decoration: none;
+    padding: 0.25rem 1rem;
+    border-radius: .5rem;
+    border: none;
+    outline: none;
+    cursor: pointer;
+    margin: 0 1px;
+    background-color: var(--secondary);
+  }
+  
+  button:hover {
+    opacity: .8;
+  }
+  
+  button[disabled] {
+    cursor: default;
+    opacity: .8;
+  }
+  
+  img {
+    max-width: 100%;
+  }
+  
+  #avatar {
+    max-height:300px;
+    border-radius: 300px;
+    }
+  
+  span[role="img"] {
+    cursor: default;
+  }
+  
+  form {
+    width: 40%;
+  }
+  
+  input {
+    font-size: 1rem;
+    padding: 0.25rem;
+    border: 1px solid var(--dark);
+    outline: none;
+    border-radius: 3px;
+    transition: box-shadow 0.2s;
+  }
