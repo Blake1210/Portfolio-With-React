@@ -7,7 +7,6 @@ function ProjectCards(props) {
     return (
       <div className="card"> 
         <div className="img-container">
-          <img alt={props.name} src={props.image}/>
         </div>
         <div className="content">
               <p className="card-title">{props.name}</p>
@@ -17,7 +16,7 @@ function ProjectCards(props) {
        
              
              </p>
-              <p class="topics">
+              <p className="topics">
                     ({props.topics})
                 </p>
         </div>
