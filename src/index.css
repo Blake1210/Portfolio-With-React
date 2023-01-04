@@ -148,3 +148,7 @@ p {
     border-radius: 3px;
     transition: box-shadow 0.2s;
   }
+
+.nav-font {
+  padding: 10px;
+}

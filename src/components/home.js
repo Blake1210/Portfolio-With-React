@@ -1,13 +1,14 @@
+
 import React from "react";
 
-function aboutMe() {
+function Home() {
     return(
     <section className="container">
         <h1 class= "top-title">Blake Peterson</h1>
 
         <div>
             <p>
-                this is a paragraph about me.
+                this is a Home about me.
             </p>
         </div>
     </section>
@@ -15,4 +16,4 @@ function aboutMe() {
     
 }
 
-export default aboutMe;
+export default Home;

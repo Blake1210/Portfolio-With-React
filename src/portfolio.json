@@ -1,7 +1,7 @@
 [
     {
         "id": 1,
-        "name": "Coding Quiz",
+        "project_name": "Coding Quiz",
         "image": "",
         "github": "https://github.com/Blake1210/Coding-Quiz",
         "deployed": "https://blake1210.github.io/Coding-Quiz/",
@@ -10,7 +10,7 @@
 
     {
         "id": 2,
-        "name": "Employee Tracker",
+        "project_name": "Employee Tracker",
         "image": "",
         "github": "https://github.com/Blake1210/Employee-Tracker-Two",
         "deployed": "",
@@ -19,7 +19,7 @@
 
     {
         "id": 3,
-        "name": "Work Day Schedule",
+        "project_name": "Work Day Schedule",
         "image": "",
         "github": "https://github.com/Blake1210/Work-Day-Schedule",
         "deployed": "https://blake1210.github.io/Work-Day-Schedule/",
@@ -28,7 +28,7 @@
 
     {
         "id": 4,
-        "name": "Password Generator",
+        "project_name": "Password Generator",
         "image": "",
         "github": "https://github.com/Blake1210/Password-Generator",
         "deployed": "https://blake1210.github.io/Password-Generator/",

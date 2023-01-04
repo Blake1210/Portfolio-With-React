@@ -39,7 +39,7 @@ function Resume() {
           <h2 className="top-title">Proficiencies</h2>
           <ul>
             <li>
-            HTML, CSS (Bootstrap, HandleBars), JavaScript, jQuery, React.js, IndexedDB,<br />
+            HTML, CSS (Bootstrap, HandleBars), JavaScript, jQuery, React.js,<br />
             Node.js, Express.js, SQL, Sequelize, MongoDB, Mongoose, APIs.
             </li>
           </ul>
