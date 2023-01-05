@@ -7,7 +7,7 @@ function aboutMe() {
 
         <div>
             <p>
-                this is a paragraph about me.
+                New software developer looking to start my first job in the software development industry. I recently just finished a boorcamp course at the University of Utah. There I learned full-stack web development, from front 
             </p>
         </div>
     </section>
