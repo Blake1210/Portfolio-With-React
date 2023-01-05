@@ -9,7 +9,7 @@ import AboutMe from "./components/about";
 import ContactForm from './components/contact';
 import './app.css';
 import 'bootstrap/dist/css/bootstrap.min.css';
-import { BrowserRouter as  Router, Route, Routes } from 'react-router-dom';
+import { HashRouter as  Router, Route, Routes } from 'react-router-dom';
 
 
 function App() {
