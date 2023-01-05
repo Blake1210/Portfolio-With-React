@@ -9,6 +9,7 @@ function footer() {
             <a href="https://www.linkedin.com/in/blake-peterson-61b11a158/">
                 <img src="https://img.icons8.com/fluent/48/000000/linkedin.png" alt="LinkedIn" className="icon"></img>
             </a>
+            <div class="text-light">cell: 661-699-9345</div>
         </footer>
     )
 }
