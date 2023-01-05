@@ -8,7 +8,7 @@ function Home() {
 
         <div>
             <p>
-                this is a Home about me.
+                Full-Stack Software Developer
             </p>
         </div>
     </section>

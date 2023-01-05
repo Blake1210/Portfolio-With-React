@@ -20,16 +20,17 @@ function Resume() {
             <a href="https://www.linkedin.com/in/blake-peterson-61b11a158/">
               <img
                 src="https://img.icons8.com/fluent/48/000000/linkedin.png"
-                alt="inkedIn"
+                alt="LinkedIn"
               />
             </a>
           </p>
 
           <a
-            href=""
+            href="https://drive.google.com/file/d/1cjZiq30vuNWZN6vpkMffKMCEtjKaPm70/view?usp=sharing"
+            download="file"
             class="link"
           >
-            Download Resume
+            Resume
           </a>
         </div>
       </div>
